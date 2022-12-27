@@ -6,6 +6,8 @@
 # ml_dataframe
 A way to store and manipulate data
 
+https://medium.com/mlearning-ai/machine-learning-in-dart-programming-language-fbfffd7deb18
+
 The library exposes in-memory storage for dynamically typed data. The storage is represented by [DataFrame](https://github.com/gyrdym/ml_dataframe/blob/master/lib/src/data_frame/data_frame.dart) class.
 
 ## Table of contents
